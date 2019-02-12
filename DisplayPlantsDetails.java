@@ -18,7 +18,7 @@ package plants;
 // java -cp "mongo-java-driver-3.5.0.jar" plants/DisplayPlantsDetails.java
 
 // Result:
-// afte running, you will see the results
+// after running, you will see the results
 // of all methods that were called in main method.
 
 
